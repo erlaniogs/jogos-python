@@ -1,7 +1,7 @@
 import random
 
 print("**************************************************************")
-print("Bem-vindo ao mundo Python jogo de adivinhação com loop for")
+print("**Bem-vindo ao mundo Python jogo de adivinhação com loop for**")
 print("**************************************************************")
 
 # Possibilidades números secretos  (digitados, aleatórios arredondados, utilizando função Python)
